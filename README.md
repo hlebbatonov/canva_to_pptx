@@ -1,0 +1,1 @@
+Anyone know that Canva's desing can't be converted to pptx correctrly. For solving this problem, you can download all slides as png's archive and put they in the same library as the program and write count of slides. You will get a .pptx file
